@@ -25,13 +25,10 @@ This e-commerce app was developed with a focus on user experience, performance, 
 ## Tech Stack
 
 - React: ^18.2.0
-- React DOM: ^18.2.0
-- React Router DOM: ^6.4.3
-- Auth0 React SDK: ^2.0.0
+- Auth0 React: ^2.0.0
 - Styled Components: ^5.3.6
 - React Icons: ^4.6.0
 - Axios: ^1.1.3
-- Web Vitals: ^2.1.4
 - Stripe JS: ^1.42.1
 
 ## Installation and Usage
